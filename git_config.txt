@@ -1,4 +1,4 @@
-user.name=shxngheiser
-user.email=artemd2626@gmail.com
+user.name=Username
+user.email=default@user.com
 core.editor=nano
 alias.history=log --graph
